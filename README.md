@@ -37,7 +37,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/emayavan-chandrasekaran-216610297
+[linkedin]: https://www.linkedin.com/in/emayavan-chandrasekaran-216610297/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BgZqI4bWKQUmtxpx5m6%2Blrw%3D%3D
 
 
 
