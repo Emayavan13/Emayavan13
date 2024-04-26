@@ -1,6 +1,9 @@
-<h1>Hi, I'm Emayavan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Emayavan! </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>This repository features my UI/UX portfolio created entirely in Figma. Take a look at the design file and get a glimpse into my design process.</h2>
+
+<h2> Certifications </h2>
+- [UI/UX & Creatice Design Pro] ( 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
