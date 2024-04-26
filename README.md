@@ -3,8 +3,7 @@
 <h2>This repository features my UI/UX portfolio created entirely in Figma. Take a look at the design file and get a glimpse into my design process.</h2>
 
 <h2> Certifications </h> 
-
-
+-
 <b>UI/UX & Design Pro (Mycaptian)</b>
 
 
