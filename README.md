@@ -2,14 +2,14 @@
 
 <h2>This repository features my UI/UX portfolio created entirely in Figma. Take a look at the design file and get a glimpse into my design process.</h2>
 
-<h2> Certifications</h>
+<h2>🥇Certifications</h>
 
 <b>[UI/UX & Design Pro (Mycaptian)](https://github.com/Emayavan13/Emayavan13/files/15126684/EMAYAVAN_UI_UX.Creative.Design.Pro_Certificate.pdf)</b>
 
  <h2>My projects</h2>
 
  
-<b>**UI Projects**</b>
+<b>**🪶User Interface Projects**</b>
 - <b>[Light themed UI for e-commerce website](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=250%3A172&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
 
 - <b>[Dark themed UI for trade collectibles](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=174%3A10&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
@@ -22,17 +22,8 @@
 
 - <b>[Second hand car buying & selling app](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=1757%3A891&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
  
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+<b>**📄User Research Projects**</b>
 
 <h2>📺 Popular YouTube Videos</h2>
 
