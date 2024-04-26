@@ -7,11 +7,21 @@
 <b>[UI/UX & Design Pro (Mycaptian)](https://github.com/Emayavan13/Emayavan13/files/15126684/EMAYAVAN_UI_UX.Creative.Design.Pro_Certificate.pdf)</b>
 
  <h2>My projects</h2>
+
  
-- <b>Light themed UI for e-commerce website</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+<b>**UI Projects**</b>
+- <b>[Light themed UI for e-commerce website](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=250%3A172&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
+
+- <b>[Dark themed UI for trade collectibles](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=174%3A10&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
+
+- <b>[Creating an UI animation Dribble Shot](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=11%3A72&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
+
+- <b>[Dash board for learning management system](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=0%3A1&mode=design&t=CGAJ1OLT3XB1I0rl-1)<b/>
+
+- <b>[Creating  a landing page for Saas web app](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=342%3A83&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
+
+- <[Second hand car buying & selling app](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=1757%3A891&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
+ 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
