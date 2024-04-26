@@ -3,7 +3,7 @@
 <h2>This repository features my UI/UX portfolio created entirely in Figma. Take a look at the design file and get a glimpse into my design process.</h2>
 
 <h2> Certifications </h2>
-- [UI/UX & Creatice Design Pro] ( 
+- [UI/UX & Creatice Design Pro] (https://github.com/Emayavan13/Emayavan13/files/15126684/EMAYAVAN_UI_UX.Creative.Design.Pro_Certificate.pdf) 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
