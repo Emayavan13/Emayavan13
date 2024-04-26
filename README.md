@@ -2,12 +2,13 @@
 
 <h2>This repository features my UI/UX portfolio created entirely in Figma. Take a look at the design file and get a glimpse into my design process.</h2>
 
-<h2> Certifications </h> 
--
-<b>UI/UX & Design Pro (Mycaptian)</b>
+<h2> Certifications</h>
 
+<b>[UI/UX & Design Pro (Mycaptian)](https://github.com/Emayavan13/Emayavan13/files/15126684/EMAYAVAN_UI_UX.Creative.Design.Pro_Certificate.pdf)</b>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+ <h2>My projects</h2>
+ 
+- <b>Light themed UI for e-commerce website</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
