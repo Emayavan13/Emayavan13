@@ -20,7 +20,7 @@
 
 - <b>[Creating  a landing page for Saas web app](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=342%3A83&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
 
-- <[Second hand car buying & selling app](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=1757%3A891&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
+- <b>[Second hand car buying & selling app](https://www.figma.com/file/pSkrRLCxL1lUglUC00iLB0/My-Project-file?type=design&node-id=1757%3A891&mode=design&t=CGAJ1OLT3XB1I0rl-1)</b>
  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
