@@ -25,6 +25,7 @@
 
 <b>**📄User Research Projects**</b>
 
+- <b>[A case study of your mobile applicationn](https://ivy-web-148.notion.site/A-Case-Study-Of-Your-Mobile-App-76047c0196644faea4bb73388c1e3bab?pvs=4)</b>
 
 
 <h2> 🤳 Connect with me:</h2>
